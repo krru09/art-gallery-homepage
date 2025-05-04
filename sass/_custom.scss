@@ -1,0 +1,19 @@
+// bootstrap color overrides
+$primary:       #D5966C;
+$secondary:     #151515;
+
+// bootstrap custom colors
+$gray-accent: #444444;
+
+// bootstrap theme-color overrides
+$theme-colors: (
+  "primary":    $primary,
+  "secondary":  $secondary,
+  "gray-accent": $gray-accent
+);
+
+// typography override
+$font-family-sans-serif: "Outfit", sans-serif; 
+
+// font-weight override
+$font-weight-normal:          300;
